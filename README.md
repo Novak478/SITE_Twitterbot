@@ -27,20 +27,32 @@ This bot is meant to:
       Select ‘United States’ as primary country’
 	
 5.  Use case
+      
       Student project / learning to code
-      Chatbot and automation
+     
+     Chatbot and automation
+      
       Has to be 300 characters. Type whatever you want.
+      
       1. Follow everyone following you, favorite and retweet a tweet based on keywords, and reply to a user based on a keyword search.            It will also tweet portions of Gutenberg press books.
+      
       2: We do not indent to analyze tweets or users, but simply interact with them.
+      
       3: It involves retweeting, favoriting, and interacting with tweets based on keywords searches.
+      
       4: The tutorial is of free use on github.com and will be shared publicly. 
 
       ‘No’ for ‘Will your product, service, or analysis make Twitter content or derived information available to a government entity?’
-      Accept TOS.
+     
+     Accept TOS.
+     
       Submit Application.
+      
       Verify your email.
 
 
 Commands
+
     Run command ‘pip install tweepy’. 
+    
     If you are using python 2.7, you will need to install pip manually.
