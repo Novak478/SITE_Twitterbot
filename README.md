@@ -49,10 +49,3 @@ This bot is meant to:
       Submit Application.
       
       Verify your email.
-
-
-Commands
-
-    Run command ‘pip install tweepy’. 
-    
-    If you are using python 2.7, you will need to install pip manually.
